@@ -10,7 +10,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   theme: dark
-  cname: 	favela-status.serverpit.com
+  # cname: 	favela-status.serverpit.com
   favicon: https://s11.gifyu.com/images/SA7tj.png
   baseUrl: /favelacitystatus
   logoUrl: https://s1.gifyu.com/images/SA7fM.gif
