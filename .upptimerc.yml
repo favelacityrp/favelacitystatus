@@ -23,7 +23,41 @@ status-website:
       href: https://discord.com/invite/favela-city
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+
+
+    customHeadHtml:
+    		<title>Favela City Release</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
   
+    customBodyHtml:
+    	<header id="header">
+		<h1>Favela City</h1>
+		<p>Wir werden bald Favela City rausbringen.<br />
+		Weitere Infos bekommst du auf unserem Discord. </p>
+	</header>
+<!-- Signup Form -->
+<form action="https://discord.com/invite/favela-city">
+	<button type="submit">Discord beitreten</button>
+  </form>
+
+<!-- Footer -->
+	<footer id="footer">
+		<!--<ul class="icons">
+			<li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
+			<li><a href="#" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+			<li><a href="#" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
+			<li><a href="#" class="icon fa-envelope"><span class="label">Email</span></a></li>
+		</ul>-->
+		<ul class="copyright">
+			<li>&copy; Favela City.</li><li>Credits: <a href="https://github.com/favelacityrp/">wlxd</a></li>
+		</ul>
+	</footer>
+ 
+    scripts:
+    - src: "assets/js/main.js"
+    
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
