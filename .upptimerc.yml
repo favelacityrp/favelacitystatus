@@ -25,7 +25,7 @@ status-website:
       href: https://discord.com/invite/favela-city
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-  customBodyHtml: <center><br>Danke für die vielen Reports in unserer Beta! Wir werden unseren Server bald releasen.<br></center>
+  customBodyHtml: <center><br>Danke für die vielen Reports in unserer Beta! Wir werden unseren Server bald releasen.<br> </center>
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
 
