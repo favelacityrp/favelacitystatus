@@ -11,9 +11,6 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   theme: dark
-  NOTIFICATION_DISCORD: true
-  NOTIFICATION_DISCORD_WEBHOOK: true
-  NOTIFICATION_DISCORD_WEBHOOK_URL: $WEBHOOK_URL
   # cname: 	favela-status.serverpit.com
   favicon: https://s11.gifyu.com/images/SA7tj.png
   baseUrl: /favelacitystatus
