@@ -5,6 +5,7 @@ repo: favelacitystatus # The name of this repository
 sites:
   - name: Favela City RP Server
     url: http://185.91.127.93/
+    maxResponseTime: 1050
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
