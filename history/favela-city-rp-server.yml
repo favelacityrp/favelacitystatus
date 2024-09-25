@@ -1,7 +1,7 @@
-url: http://185.91.127.93/
-status: up
-code: 200
-responseTime: 167
-lastUpdated: 2024-09-25T18:12:52.825Z
+url: $SERVER_URL
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2024-09-25T18:19:30.802Z
 startTime: 2024-09-22T14:30:32.455Z
 generator: Upptime <https://github.com/upptime/upptime>
