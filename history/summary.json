@@ -4,7 +4,7 @@
     "url": "$SERVER_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "favela-city-rp-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -12,9 +12,11 @@
     "uptimeYear": "100.00%",
     "time": 219,
     "timeDay": 179,
-    "timeWeek": 219,
+    "timeWeek": 221,
     "timeMonth": 219,
     "timeYear": 219,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-29": 0
+    }
   }
 ]
